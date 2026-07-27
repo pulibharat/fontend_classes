@@ -13,5 +13,9 @@ users = [{
 }
 ]
 
+// f string in js
 
 
+
+
+` string ${users[0].name}`
